@@ -26,6 +26,8 @@ Thank you!
 
 ## Special thanks
 
+Thanks to Tymon Lindell (Ridge) for adding support for the Bigscreen Beyond 2e!
+
 Thanks to my beta testers for helping throughout development and release (in alphabetical order):
 
 - BARRACUDAS
